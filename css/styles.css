@@ -1,0 +1,35 @@
+/* Reset */
+html, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header - Navbar */
+#navbarNav {
+  text-align: center;
+  justify-content: flex-end;
+}
+
+#logo-name {
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  #logo-name {
+    display: flex;
+    font-weight: 800;  
+    font-size: 14px;
+  }
+}
+
+/* Footer */
+footer {
+  text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+  footer {
+    text-align: left;
+  }
+}
