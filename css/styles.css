@@ -23,6 +23,11 @@ html, *::before, *::after {
   }
 }
 
+/* Main */
+main {
+  min-height: 94vh;
+}
+
 /* Footer */
 footer {
   text-align: center;
