@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado Mecánico",
+      "description": "Teclado mecánico con retroiluminación RGB y switches intercambiables.",
+      "price": 75.99,
+      "category": "teclados",
+      "stock": 20,
+      "image": "teclado.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mouse Óptico",
+      "description": "Mouse óptico ergonómico con 7 botones programables y DPI ajustable.",
+      "price": 29.99,
+      "category": "mouse",
+      "stock": 50,
+      "image": "mouse.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Monitor 24\"",
+      "description": "Monitor de 24 pulgadas con resolución Full HD y frecuencia de actualización de 144Hz.",
+      "price": 199.99,
+      "category": "monitores",
+      "stock": 15,
+      "image": "monitor.jpg"
+    }
+  ]
+}
