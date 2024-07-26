@@ -26,8 +26,14 @@ html, *::before, *::after {
 /* Main */
 main {
   min-height: 94vh;
+  padding-top: 140px;
 }
 
+@media screen and (min-width: 992px) {
+  main {
+    padding-top: 140px;
+  }
+}
 /* Footer */
 footer {
   text-align: center;
