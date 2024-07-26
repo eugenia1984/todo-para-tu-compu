@@ -7,7 +7,7 @@
       "price": 215.00,
       "category": "keyboard",
       "stock": 20,
-      "image": "/assets/img/pro-x-60.webp",
+      "image": "assets/img/pro-x-60.webp",
       "isOutstanding": true
     },
     {
@@ -17,7 +17,7 @@
       "price": 135.00,
       "category": "mouse",
       "stock": 50,
-      "image": "/assets/img/mx-master-3s.webp",
+      "image": "assets/img/mx-master-3s.webp",
       "isOutstanding": true
     },
     {
@@ -27,7 +27,7 @@
       "price": 189.99,
       "category": "headphone",
       "stock": 15,
-      "image": "/assets/img/g735.webp",
+      "image": "assets/img/g735.webp",
       "isOutstanding": true
     }
   ]
