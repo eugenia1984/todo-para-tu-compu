@@ -21,7 +21,7 @@
                         <div class="card-body">
                             <h5 class="card-title">${product.name}</h5>
                             <p class="card-text">$${product.price}</p>
-                            <a href="product.html?id=${product.id}" class="btn btn-primary">Más info</a>
+                            <a href="todo-para-tu-compu/product.html?id=${product.id}" class="btn btn-primary">Más info</a>
                         </div>
                     </div>
                 </div>
