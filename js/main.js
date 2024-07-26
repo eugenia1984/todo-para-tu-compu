@@ -1,10 +1,6 @@
 (() => {
   "use strict";
 
-  // HTML elements
-  const carouselInner = document.querySelector(".carousel-inner");
-  const carouselIndicators = document.querySelector(".carousel-indicators");
-
   /**
  * @param {Object} products - product: {
       "id": number,
@@ -20,6 +16,11 @@
   function displayFeaturedProducts(products) {
     // Se obtiene el array de productos desde el objeto `products`
     const productsArray = products.products;
+
+    // HTML elements
+    const carouselInner = document.querySelector(".carousel-inner");
+    const carouselIndicators = document.querySelector(".carousel-indicators");
+
 
     // Filtrar los productos destacados (isOutstanding: true)
     const featuredProducts = productsArray.filter(
@@ -62,7 +63,5 @@
   // Cargar productos desde products.json y mostrar en el sitio
   fetch("data/products.json")
     .then((response) => response.json())
-    .then((data) => {
-      displayFeaturedProducts(data);
-    });
+    .then((data) => displayFeaturedProducts(data));
 })();
