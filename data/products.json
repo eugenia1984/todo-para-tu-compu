@@ -2,30 +2,33 @@
   "products": [
     {
       "id": 1,
-      "name": "Teclado Mecánico",
-      "description": "Teclado mecánico con retroiluminación RGB y switches intercambiables.",
-      "price": 75.99,
-      "category": "teclados",
+      "name": "PRO X 60 - Teclado inalámbrico LIGHTSPEED para gaming",
+      "description": "Diseñado en colaboración con los mejores jugadores de esports del mundo, PRO X 60 se ha diseñado para romper cualquier barrera entre tú y la victoria. Compite a un nuevo nivel con la próxima generación de teclados PRO.",
+      "price": 215.00,
+      "category": "keyboard",
       "stock": 20,
-      "image": "teclado.jpg"
+      "image": "/assets/img/pro-x-60.webp",
+      "isOutstanding": true
     },
     {
       "id": 2,
-      "name": "Mouse Óptico",
-      "description": "Mouse óptico ergonómico con 7 botones programables y DPI ajustable.",
-      "price": 29.99,
+      "name": "MX Master 3S",
+      "description": "MX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.",
+      "price": 135.00,
       "category": "mouse",
       "stock": 50,
-      "image": "mouse.jpg"
+      "image": "/assets/img/mx-master-3s.webp",
+      "isOutstanding": true
     },
     {
       "id": 3,
-      "name": "Monitor 24\"",
-      "description": "Monitor de 24 pulgadas con resolución Full HD y frecuencia de actualización de 144Hz.",
-      "price": 199.99,
-      "category": "monitores",
+      "name": "G735 \nAuriculares inalámbricos con micrófono para gaming",
+      "description": "De The Aurora Collection, los G735 maximizan la comodidad y el ajuste para todos los jugadores, incluso para quienes tienen la cabeza pequeña. Juega a gusto con una diadema suave como las nubes y con copas giratorias. Son perfectos para PC y dispositivos móviles con tecnología inalámbrica LIGHTSPEED y Bluetooth®. Disponibles en Blanco White Mist. Accesorios de combinación de colores a la venta por separado.",
+      "price": 189.99,
+      "category": "headphone",
       "stock": 15,
-      "image": "monitor.jpg"
+      "image": "/assets/img/g735.webp",
+      "isOutstanding": true
     }
   ]
 }
