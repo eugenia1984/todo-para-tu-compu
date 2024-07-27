@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "PRO X 60 - Teclado inalámbrico LIGHTSPEED para gaming",
-      "description": "Diseñado en colaboración con los mejores jugadores de esports del mundo, PRO X 60 se ha diseñado para romper cualquier barrera entre tú y la victoria. Compite a un nuevo nivel con la próxima generación de teclados PRO.",
+      "name": "PRO X 60 <br/>Teclado inalámbrico LIGHTSPEED para gaming",
+      "description": "Teclado inalámbrico LIGHTSPEED 60% para gaming con KEYCONTROL, RGB LIGHTSYNC e interruptores ópticos. <br/>Diseñado en colaboración con los mejores jugadores de esports del mundo, PRO X 60 se ha diseñado para romper cualquier barrera entre tú y la victoria. Compite a un nuevo nivel con la próxima generación de teclados PRO. <br/> Personalización completa del teclado: usa G HUB para tomar el control de cada tecla con KEYCONTROL y varias capas personalizables para el centro de mando definitivo. <br/>Juega a toda velocidad con lightspeed: da rienda suelta a la velocidad y la fiabilidad con el rendimiento fiable de la tecnología inalámbrica LIGHTSPEED. Conecta el hardware compatible con un adaptador para maximizar tu equipo. <br/> Rendimiento: el conmutador de modo de juego, el control giratorio de volumen y los controles multimedia cuidadosamente colocados mantienen tu concentración en lo que importa: la victoria.",
       "price": 215.00,
       "category": "keyboard",
       "stock": 20,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "MX Master 3S",
-      "description": "MX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.",
+      "description": "Éste es MX Master 3S, un emblemático ratón reinventado. Siente cada momento de tu flujo de trabajo con más precisión, sensación táctil y rendimiento, gracias a los clics discretos y un sensor de seguimiento sobre cristal de 8.000 dpi1. <br/>MX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.<br/> Siéntelo - sin apenas oírlo: con clics discretos: crea y haz todo tipo de cosas con la misma sensación de clic, pero con menos ruido. Los clics discretos ofrecen una sensación táctil satisfactoria y producen un 90% menos de ruido.",
       "price": 135.00,
       "category": "mouse",
       "stock": 50,
@@ -22,13 +22,73 @@
     },
     {
       "id": 3,
+      "name": "G735 <br/>Auriculares inalámbricos con micrófono para gaming",
+      "description": "De The Aurora Collection, los G735 maximizan la comodidad y el ajuste para todos los jugadores, incluso para quienes tienen la cabeza pequeña. <br/>Juega a gusto con una diadema suave como las nubes y con copas giratorias. <br/>Son perfectos para PC y dispositivos móviles con tecnología inalámbrica LIGHTSPEED y Bluetooth®. <br/>Disponibles en Blanco White Mist. <br/>Accesorios de combinación de colores a la venta por separado.",
+      "price": 189.99,
+      "category": "headphone",
+      "stock": 15,
+      "image": "assets/img/g735.webp",
+      "isOutstanding": true
+    },
+    {
+      "id": 4,
+      "name": " Logitech K380 <br/> Teclado inalámbrico",
+      "description": "El teclado inalámbrico Logitech K380 se conecta a través de Bluetooth® y podrás usarlo para cualquier dispositivo como teclado externo. Además, su diseño con líneas redondeadas y el color rosa lo hacen único. <br/>Disfruta del confort de escribir tranquilamente en un teclado en tu pantalla de Smartphone o tu tablet. Se conecta a través de Bluetooth® 3.0 con cualquier dispositivo que soporte teclados externos como Windows®, Mac, Chrome OS™, Android™ o iOS. <br/>Es ligero, compacto y podrás llevarlo donde quieras. Escribe lo que quieras en cualquier ordenador, teléfono o tablet ya que es cómodo para escribir y para moverlo donde necesites. Funciona con dos pilas AAA (preinstaladas) que tienen una duración aproximada de dos años, así que durante un largo tiempo te olvidarás de tener que cambiar las pilas.",
+      "price": 37.99,
+      "category": "keyboard",
+      "stock": 20,
+      "image": "assets/img/k-380.webp",
+      "isOutstanding": false
+    },
+    {
+      "id": 5,
+      "name": "MX Master 3S",
+      "description": "MX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.",
+      "price": 135.00,
+      "category": "mouse",
+      "stock": 50,
+      "image": "assets/img/mx-master-3s.webp",
+      "isOutstanding": false
+    },
+    {
+      "id": 6,
+      "name": "G735 <br/> Auriculares inalámbricos con micrófono para gaming",
+      "description": "De The Aurora Collection, los G735 maximizan la comodidad y el ajuste para todos los jugadores, incluso para quienes tienen la cabeza pequeña. Juega a gusto con una diadema suave como las nubes y con copas giratorias. Son perfectos para PC y dispositivos móviles con tecnología inalámbrica LIGHTSPEED y Bluetooth®. Disponibles en Blanco White Mist. Accesorios de combinación de colores a la venta por separado.",
+      "price": 189.99,
+      "category": "headphone",
+      "stock": 15,
+      "image": "assets/img/g735.webp",
+      "isOutstanding": false
+    },
+    {
+      "id": 7,
+      "name": "PRO X 60 - Teclado inalámbrico LIGHTSPEED para gaming",
+      "description": "Diseñado en colaboración con los mejores jugadores de esports del mundo, PRO X 60 se ha diseñado para romper cualquier barrera entre tú y la victoria. Compite a un nuevo nivel con la próxima generación de teclados PRO.",
+      "price": 215.00,
+      "category": "keyboard",
+      "stock": 20,
+      "image": "assets/img/pro-x-60.webp",
+      "isOutstanding": false
+    },
+    {
+      "id": 8,
+      "name": "MX Master 3S",
+      "description": "MX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.",
+      "price": 135.00,
+      "category": "mouse",
+      "stock": 50,
+      "image": "assets/img/mx-master-3s.webp",
+      "isOutstanding": false
+    },
+    {
+      "id": 9,
       "name": "G735 \nAuriculares inalámbricos con micrófono para gaming",
       "description": "De The Aurora Collection, los G735 maximizan la comodidad y el ajuste para todos los jugadores, incluso para quienes tienen la cabeza pequeña. Juega a gusto con una diadema suave como las nubes y con copas giratorias. Son perfectos para PC y dispositivos móviles con tecnología inalámbrica LIGHTSPEED y Bluetooth®. Disponibles en Blanco White Mist. Accesorios de combinación de colores a la venta por separado.",
       "price": 189.99,
       "category": "headphone",
       "stock": 15,
       "image": "assets/img/g735.webp",
-      "isOutstanding": true
+      "isOutstanding": false
     }
   ]
 }

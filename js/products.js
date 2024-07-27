@@ -15,13 +15,13 @@
 
       categoryProducts.forEach((product) => {
         const productCard = `
-                <div class="col-md-4 mb-4">
-                    <div class="card">
+                <div class="col-md-6 col-lg-4">
+                    <div class="card mb-3">
                         <img src="${product.image}" class="card-img-top" alt="${product.name}">
                         <div class="card-body">
                             <h5 class="card-title">${product.name}</h5>
-                            <p class="card-text">$${product.price}</p>
-                            <a href="product.html?id=${product.id}" class="btn btn-primary">Más info</a>
+                            <p class="card-text">EUR ${product.price}</p>
+                            <a href="product.html?id=${product.id}" class="btn btn-dark">Más info</a>
                         </div>
                     </div>
                 </div>

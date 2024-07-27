@@ -9,20 +9,27 @@
     fetch("data/products.json")
       .then((response) => response.json())
       .then((data) => {
-
-        const product = (data.products).find((item) => item.id.toString() === productId);
+        const product = data.products.find(
+          (item) => item.id.toString() === productId
+        );
 
         if (product) {
           const productDetail = `
-                    <div class="row pt-5">
-                        <div class="col-md-6">
-                            <img src="${product.image}" class="img-fluid" alt="${product.name}">
-                        </div>
-                        <div class="col-md-6">
-                            <h1>${product.name}</h1>
-                            <p>${product.description}</p>
-                            <h4>$${product.price}</h4>
-                        </div>
+                    <div class="row">
+                      <div class="col-12 pb-5">
+                          <h1 class="text-center">${product.name}</h1>
+                      </div>
+                    </div>
+                    <div class="row pt-2">
+                      <div class="col-md-7">
+                          <img src="${product.image}" class="img-fluid" alt="${product.name}">
+                      </div>
+                      <div class="col-md-5">
+                          <p class="fw-bold">Descripción:</p>
+                          <p>${product.description}</p>
+                          <p class="fw-bold">Precio:</p>
+                          <p class="fw-bold fs-4">EUR ${product.price}</p>
+                      </div>
                     </div>
                 `;
           document.getElementById("product-detail").innerHTML = productDetail;
