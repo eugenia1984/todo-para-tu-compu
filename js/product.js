@@ -29,6 +29,7 @@
                           <p>${product.description}</p>
                           <p class="fw-bold">Precio:</p>
                           <p class="fw-bold fs-4">EUR ${product.price}</p>
+                          <p class="fw-bold">Stock: ${product.stock}</p>
                       </div>
                     </div>
                 `;

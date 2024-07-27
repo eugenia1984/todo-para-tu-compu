@@ -16,7 +16,7 @@
       categoryProducts.forEach((product) => {
         const productCard = `
                 <div class="col-md-6 col-lg-4">
-                    <div class="card mb-3">
+                    <div class="card mb-3 px-1 pt-2">
                         <img src="${product.image}" class="card-img-top" alt="${product.name}">
                         <div class="card-body">
                             <h5 class="card-title">${product.name}</h5>
