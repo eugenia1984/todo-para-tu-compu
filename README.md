@@ -41,13 +41,7 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 ## TECNOLOGÍAS UTILIZADAS:
 
-- <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5"/>  HTML5
-
-- <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> CSS3
-
-- <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap"/> BOOTSTRAP 
-
-- <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/> JAVASCRIPT
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5"/>  HTML5 * <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> CSS3 * <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap"/> BOOTSTRAP * <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/> JAVASCRIPT
 
 ---
 
@@ -70,17 +64,22 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 ```
 /tODO-PARA-TU-COMPU
 │
-├── /css
-│   └── styles.css    // Tu archivo CSS personalizado
+├── /assets  // Para guardar imagenes
+│   └── img // Todas las imagenes del proyecto
+│
+├── /css  // CSS personalizado
+│   └── home.css
+│   └── products.css
+│   └── styles.css    
+│
+├── /data // El archivo JSON que tiene la informacion de los productos
+│   └── products.json
 │
 ├── /js
-│   └── MAIN.js       // Tu archivo JavaScript personalizado
+│   └── main.js // Archivo JavaScript personalizado para la home page
+│   └── product.js // Archivo JavaScript personalizado para la página del detalle del producto
+│   └── products.js // Archivo JavaScript personalizado para la página de productos
 │
-├── /img
-│   └── (imágenes de productos y otras imágenes necesarias)
-│
-├── /data
-│   └── products.json  // Archivo JSON con la información de los productos
 │
 ├── index.html        // Página principal
 ├── products.html     // Página de productos
@@ -94,9 +93,9 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 - María Eugenia Costa
 
-- Gonzalo
+- Gonzalo C
  
-- Cecilia
+- Cecilia G
   
 ---
 
@@ -104,5 +103,22 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 
 Se puede ver en: [eugenia1984.github.io/todo-para-tu-compu](eugenia1984.github.io/todo-para-tu-compu)
+
+- Página principal:
+
+<img src="https://github.com/user-attachments/assets/d21b7542-046e-4cd3-bc08-66b725c7f035" width="700" alt="pagina de inicio"/>
+
+- Página de productos:
+
+<img src="https://github.com/user-attachments/assets/cbe001f4-4412-4c7c-9b09-d21ba64245b7" width="700" alt="pagina de productos"/>
+
+- Página de detalle del producto:
+
+<img src="https://github.com/user-attachments/assets/01623f42-6dff-4800-adec-23f35ab63c62" width="700" alt="pagina de producto"/>
+
+-> Siempre manteniendo el diseño responsive, vista de ejemplo en celular:
+
+<img src="https://github.com/user-attachments/assets/f5d9194e-9960-46e7-9cca-d7842c48ce86" width="400" alt="pagina de producto, en celular"/>
+
 
 ---
