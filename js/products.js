@@ -17,11 +17,11 @@
         const productCard = `
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-3 px-1 pt-2">
-                        <img src="${product.image}" class="card-img-top" alt="${product.name}">
+                        <img src="${product.image}" class="card-img-top product-card" alt="${product.name}">
                         <div class="card-body">
-                            <h5 class="card-title">${product.name}</h5>
+                            <h3 class="card-title fs-5 product-title">${product.name}</h3>
                             <p class="card-text">EUR ${product.price}</p>
-                            <a href="product.html?id=${product.id}" class="btn btn-dark">Más info</a>
+                            <a href="product.html?id=${product.id}" class="btn btn-dark" alt="botón para ir al detalle del producto">Más info</a>
                         </div>
                     </div>
                 </div>
