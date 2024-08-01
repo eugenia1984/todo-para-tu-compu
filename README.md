@@ -126,13 +126,26 @@ Queríamso que sea una página sencilla, para que el usuario no se pierda entre 
 
 Se puede ver en: [eugenia1984.github.io/todo-para-tu-compu](eugenia1984.github.io/todo-para-tu-compu)
 
-- Página principal:
+- Página principal - Modo Desktop:
 
-<img src="https://github.com/user-attachments/assets/d21b7542-046e-4cd3-bc08-66b725c7f035" width="700" alt="pagina de inicio"/>
+
+<img src="https://github.com/user-attachments/assets/ea042b9e-8deb-4c5e-b197-03183aa144fc" width="700" alt="pagina de inicio, vista desktop"/>
+
+<img src="https://github.com/user-attachments/assets/66eb798e-2ee0-4e08-aef1-4bd95d63e735" width="700" alt="pagina de inicio, vista desktop"/>
+
+- Página principal - Modo Mobil / Tablet:
+
+<img src="https://github.com/user-attachments/assets/c59a5b4a-92e0-4f1e-97de-4d1f6e96e3a1" width="700" alt="pagina de inicio, vista celuar y tablet"/>
+
+<img src="https://github.com/user-attachments/assets/eb549c72-208f-426f-a558-3844fcae9e43" width="700" alt="pagina de inicio, vista celuar y tablet"/>
+
+En la parte de **productos destacados** el botnón de **Más info** lleva a al página de detalle del producto.
 
 - Página de productos:
 
-<img src="https://github.com/user-attachments/assets/cbe001f4-4412-4c7c-9b09-d21ba64245b7" width="700" alt="pagina de productos"/>
+<img src="https://github.com/user-attachments/assets/7e9e65ca-5ba1-4742-993e-9a3430cb4b9c" width="700" alt="pagina de productos"/>
+
+Haciendo click en el boton de **Más info** se va a la página del detalle del producto.
 
 - Página de detalle del producto:
 
