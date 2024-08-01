@@ -106,10 +106,6 @@ Pra hacer el proyecto escalable, se creo un archivo de `.css` para cada una de l
 ## INTEGRANTES DLE PROYECTO:
 
 - María Eugenia Costa
-
-- Gonzalo C
- 
-- Cecilia G
   
 ---
 
