@@ -127,13 +127,11 @@ Se puede ver en: [eugenia1984.github.io/todo-para-tu-compu](eugenia1984.github.i
 
 <img src="https://github.com/user-attachments/assets/ea042b9e-8deb-4c5e-b197-03183aa144fc" width="700" alt="pagina de inicio, vista desktop"/>
 
-<img src="https://github.com/user-attachments/assets/66eb798e-2ee0-4e08-aef1-4bd95d63e735" width="700" alt="pagina de inicio, vista desktop"/>
 
 - Página principal - Modo Mobil / Tablet:
 
 <img src="https://github.com/user-attachments/assets/c59a5b4a-92e0-4f1e-97de-4d1f6e96e3a1" width="700" alt="pagina de inicio, vista celuar y tablet"/>
 
-<img src="https://github.com/user-attachments/assets/eb549c72-208f-426f-a558-3844fcae9e43" width="700" alt="pagina de inicio, vista celuar y tablet"/>
 
 En la parte de **productos destacados** el botnón de **Más info** lleva a al página de detalle del producto.
 
