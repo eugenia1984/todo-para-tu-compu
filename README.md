@@ -41,7 +41,13 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 ## TECNOLOGÍAS UTILIZADAS:
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5"/>  HTML5 * <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> CSS3 * <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap"/> BOOTSTRAP * <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/> JAVASCRIPT
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5"/>  HTML5 
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> CSS3 
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap"/> BOOTSTRAP 
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/> JAVASCRIPT
 
 ---
 
@@ -61,6 +67,13 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 ## ESTRUCTURA DEL PROYECTO
 
+En al carpeta **assets** se guardaron todas las imagenes de los productos que se utilizan en la web.
+
+En la carpeta **data** de creoa el archivo `products.json` con toda la informacón de los productos, para poder mostrar las páginas dinámicamente, creando parte del HTML con JavaScript, para no tener que repetir tanto cédigo de HTMl y no tener tantos archivos, como el caso del detalle del producto que mediante un parámetro de `id`en la URL se carga el producto correspondiente al id, reutilizndo el mismo archivo `product.html` para el detalle de todos los productos.
+
+Pra hacer el proyecto escalable, se creo un archivo de `.css` para cada una de las páginas, en vez de tenerlo todo junto en un archivo, lo mismo con los archivos de `javascript`.
+
+
 ```
 /tODO-PARA-TU-COMPU
 │
@@ -69,6 +82,7 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 │
 ├── /css  // CSS personalizado
 │   └── home.css
+│   └── product.css
 │   └── products.css
 │   └── styles.css    
 │
@@ -97,6 +111,14 @@ Implementación de Git para el control de versiones del código y la colaboraci�
  
 - Cecilia G
   
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/cotton/48/paint-bucket.png" alt="paint-bucket"/> DISEÑO
+
+En cuanto al diseño nos insporamos en las páginas de Nike, ADidas o Apple, donde utilizan principalmente los colores Blancos y Negros, y a veces destacan algún título con color.
+
+Queríamso que sea una página sencilla, para que el usuario no se pierda entre tantas cosas e intuitivamente la pueda utilizar facilmente.
+
 ---
 
 ## <img width="48" height="48" src="https://img.icons8.com/color/48/play--v1.png" alt="play--v1"/> DEMO

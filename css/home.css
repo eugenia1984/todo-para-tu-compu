@@ -1,3 +1,7 @@
 #products-carousel {
   width: 90%;
 }
+
+.product-name {
+  white-space: pre-line;
+}

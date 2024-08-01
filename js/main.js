@@ -39,7 +39,7 @@
         product.name
       }">
                   <div class="carousel-caption d-none d-md-block">
-                      <h3 class="fs-5 w-bold text-uppercase">${product.name}</h3>
+                      <h3 class="fs-5 w-bold text-uppercase product-name">${product.name}</h3>
                       <p class="fs-4 w-bold">EUR ${product.price.toFixed(2)}</p>
                       <a href="product.html?id=${product.id}" class="btn btn-dark mb-2" alt="botón para ir al detalle del producto">Más info</a>
                   </div>

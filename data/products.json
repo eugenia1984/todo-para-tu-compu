@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "PRO X 60 <br/>Teclado inalámbrico LIGHTSPEED para gaming",
-      "description": "Teclado inalámbrico LIGHTSPEED 60% para gaming con KEYCONTROL, RGB LIGHTSYNC e interruptores ópticos. <br/>Diseñado en colaboración con los mejores jugadores de esports del mundo, PRO X 60 se ha diseñado para romper cualquier barrera entre tú y la victoria. Compite a un nuevo nivel con la próxima generación de teclados PRO. <br/> Personalización completa del teclado: usa G HUB para tomar el control de cada tecla con KEYCONTROL y varias capas personalizables para el centro de mando definitivo. <br/>Juega a toda velocidad con lightspeed: da rienda suelta a la velocidad y la fiabilidad con el rendimiento fiable de la tecnología inalámbrica LIGHTSPEED. Conecta el hardware compatible con un adaptador para maximizar tu equipo. <br/> Rendimiento: el conmutador de modo de juego, el control giratorio de volumen y los controles multimedia cuidadosamente colocados mantienen tu concentración en lo que importa: la victoria.",
+      "name": "PRO X 60 \nTeclado inalámbrico LIGHTSPEED para gaming",
+      "description": "Teclado inalámbrico LIGHTSPEED 60% para gaming con KEYCONTROL, RGB LIGHTSYNC e interruptores ópticos. \nDiseñado en colaboración con los mejores jugadores de esports del mundo, PRO X 60 se ha diseñado para romper cualquier barrera entre tú y la victoria. Compite a un nuevo nivel con la próxima generación de teclados PRO. \n Personalización completa del teclado: usa G HUB para tomar el control de cada tecla con KEYCONTROL y varias capas personalizables para el centro de mando definitivo. \nJuega a toda velocidad con lightspeed: da rienda suelta a la velocidad y la fiabilidad con el rendimiento fiable de la tecnología inalámbrica LIGHTSPEED. Conecta el hardware compatible con un adaptador para maximizar tu equipo. \n Rendimiento: el conmutador de modo de juego, el control giratorio de volumen y los controles multimedia cuidadosamente colocados mantienen tu concentración en lo que importa: la victoria.",
       "price": 215.00,
       "category": "keyboard",
       "stock": 20,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "MX Master 3S",
-      "description": "Éste es MX Master 3S, un emblemático ratón reinventado. <br/>Siente cada momento de tu flujo de trabajo con más precisión, sensación táctil y rendimiento, gracias a los clics discretos y un sensor de seguimiento sobre cristal de 8.000 dpi1. <br/>MX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.<br/> Siéntelo - sin apenas oírlo: con clics discretos: crea y haz todo tipo de cosas con la misma sensación de clic, pero con menos ruido. Los clics discretos ofrecen una sensación táctil satisfactoria y producen un 90% menos de ruido.",
+      "description": "Éste es MX Master 3S, un emblemático ratón reinventado. \nSiente cada momento de tu flujo de trabajo con más precisión, sensación táctil y rendimiento, gracias a los clics discretos y un sensor de seguimiento sobre cristal de 8.000 dpi1. \nMX Master 3S for Mac funciona hasta 70 días con una carga completa, y permite tres horas de uso tras un minuto de carga rápida.\n Siéntelo - sin apenas oírlo: con clics discretos: crea y haz todo tipo de cosas con la misma sensación de clic, pero con menos ruido. Los clics discretos ofrecen una sensación táctil satisfactoria y producen un 90% menos de ruido.",
       "price": 135.00,
       "category": "mouse",
       "stock": 50,
@@ -22,8 +22,8 @@
     },
     {
       "id": 3,
-      "name": "G735 <br/>Auriculares inalámbricos con micrófono para gaming",
-      "description": "De The Aurora Collection, los G735 maximizan la comodidad y el ajuste para todos los jugadores, incluso para quienes tienen la cabeza pequeña. <br/>Juega a gusto con una diadema suave como las nubes y con copas giratorias. <br/>Son perfectos para PC y dispositivos móviles con tecnología inalámbrica LIGHTSPEED y Bluetooth®. <br/>Disponibles en Blanco White Mist. <br/>Accesorios de combinación de colores a la venta por separado.",
+      "name": "G735 \nAuriculares inalámbricos con micrófono para gaming",
+      "description": "De The Aurora Collection, los G735 maximizan la comodidad y el ajuste para todos los jugadores, incluso para quienes tienen la cabeza pequeña. \nJuega a gusto con una diadema suave como las nubes y con copas giratorias. \nSon perfectos para PC y dispositivos móviles con tecnología inalámbrica LIGHTSPEED y Bluetooth®. \nDisponibles en Blanco White Mist. \nAccesorios de combinación de colores a la venta por separado.",
       "price": 189.99,
       "category": "headphone",
       "stock": 15,
@@ -32,8 +32,8 @@
     },
     {
       "id": 4,
-      "name": " Logitech K380 <br/> Teclado inalámbrico",
-      "description": "El teclado inalámbrico Logitech K380 se conecta a través de Bluetooth® y podrás usarlo para cualquier dispositivo como teclado externo. Además, su diseño con líneas redondeadas y el color rosa lo hacen único. <br/>Disfruta del confort de escribir tranquilamente en un teclado en tu pantalla de Smartphone o tu tablet. Se conecta a través de Bluetooth® 3.0 con cualquier dispositivo que soporte teclados externos como Windows®, Mac, Chrome OS™, Android™ o iOS. <br/>Es ligero, compacto y podrás llevarlo donde quieras. Escribe lo que quieras en cualquier ordenador, teléfono o tablet ya que es cómodo para escribir y para moverlo donde necesites. Funciona con dos pilas AAA (preinstaladas) que tienen una duración aproximada de dos años, así que durante un largo tiempo te olvidarás de tener que cambiar las pilas.",
+      "name": " Logitech K380 \n Teclado inalámbrico",
+      "description": "El teclado inalámbrico Logitech K380 se conecta a través de Bluetooth® y podrás usarlo para cualquier dispositivo como teclado externo. Además, su diseño con líneas redondeadas y el color rosa lo hacen único. \nDisfruta del confort de escribir tranquilamente en un teclado en tu pantalla de Smartphone o tu tablet. Se conecta a través de Bluetooth® 3.0 con cualquier dispositivo que soporte teclados externos como Windows®, Mac, Chrome OS™, Android™ o iOS. \nEs ligero, compacto y podrás llevarlo donde quieras. Escribe lo que quieras en cualquier ordenador, teléfono o tablet ya que es cómodo para escribir y para moverlo donde necesites. Funciona con dos pilas AAA (preinstaladas) que tienen una duración aproximada de dos años, así que durante un largo tiempo te olvidarás de tener que cambiar las pilas.",
       "price": 37.99,
       "category": "keyboard",
       "stock": 20,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Logitech ERGO M575",
-      "description": "Consigue este ergonómico trackball inalámbrico Logitech ERGO M575 en color negro, con 2000 ppp, conexión RF inalámbrica con receptor USB y Bluetooth de bajo consumo, para un trabajo más cómodo y preciso en tu oficina.<br/>Minimiza el movimiento y maximiza la comodidad con ERGO M575, un trackball inalámbrico con forma ergonómica contorneada. Sin necesidad de mover el brazo para mover el cursor, tu mano y tu brazo permanecen relajados. El control con el pulgar, fluido y con buena respuesta, se puede usar en cualquier sitio, y como no hace falta moverlo, el ERGO M575 es perfecto para espacios de escritorio reducidos.",
+      "description": "Consigue este ergonómico trackball inalámbrico Logitech ERGO M575 en color negro, con 2000 ppp, conexión RF inalámbrica con receptor USB y Bluetooth de bajo consumo, para un trabajo más cómodo y preciso en tu oficina.\nMinimiza el movimiento y maximiza la comodidad con ERGO M575, un trackball inalámbrico con forma ergonómica contorneada. Sin necesidad de mover el brazo para mover el cursor, tu mano y tu brazo permanecen relajados. El control con el pulgar, fluido y con buena respuesta, se puede usar en cualquier sitio, y como no hace falta moverlo, el ERGO M575 es perfecto para espacios de escritorio reducidos.",
       "price": 39.99,
       "category": "mouse",
       "stock": 24,
@@ -52,8 +52,8 @@
     },
     {
       "id": 6,
-      "name": "G PRO X <br/>Auriculares Gaming",
-      "description": "Conozca los mejores auriculares para juegos, diseñados con y para profesionales de esports. Escuche como los profesionales con los controladores PRO-G de 50 mm.<br/>El micrófono desmontable Blue VO! CE de 6 mm sintoniza su voz en tiempo real para que suene más rico y claro con reducción de ruido avanzada, compresión, de-esser y más.<br/>PRO X está diseñado y fabricado para durar con horquillas de aluminio premium y una resistente diadema con estructura de acero acabada con un acolchado cómodo y duradero.",
+      "name": "G PRO X \nAuriculares Gaming",
+      "description": "Conozca los mejores auriculares para juegos, diseñados con y para profesionales de esports. Escuche como los profesionales con los controladores PRO-G de 50 mm.\nEl micrófono desmontable Blue VO! CE de 6 mm sintoniza su voz en tiempo real para que suene más rico y claro con reducción de ruido avanzada, compresión, de-esser y más.\nPRO X está diseñado y fabricado para durar con horquillas de aluminio premium y una resistente diadema con estructura de acero acabada con un acolchado cómodo y duradero.",
       "price": 139.00,
       "category": "headphone",
       "stock": 15,
@@ -62,8 +62,8 @@
     },
     {
       "id": 7,
-      "name": "Logitech K120 <br/>Teclado con Cable Business ",
-      "description": "Escritura Cómoda: Este teclado USB que permite escribir cómodamente durante mucho tiempo.<br/>Encantador y Robusto: El teclado tiene diseño estándar con teclas F y teclado numérico de tamaño normal y es resistente, con un diseño resistente a salpicaduras y teclas duraderas.<br/>Perfil Plano: El teclado tiene un perfil plano que añade elegancia al escritorio a la vez que permite mantener las manos en una posición más cómoda y natural.<br/>Patas Ajustables y Robustas: Con las patas plegables desplegadas, la inclinación del teclado se incrementa en 8°.",
+      "name": "Logitech K120 \nTeclado con Cable Business ",
+      "description": "Escritura Cómoda: Este teclado USB que permite escribir cómodamente durante mucho tiempo.\nEncantador y Robusto: El teclado tiene diseño estándar con teclas F y teclado numérico de tamaño normal y es resistente, con un diseño resistente a salpicaduras y teclas duraderas.\nPerfil Plano: El teclado tiene un perfil plano que añade elegancia al escritorio a la vez que permite mantener las manos en una posición más cómoda y natural.\nPatas Ajustables y Robustas: Con las patas plegables desplegadas, la inclinación del teclado se incrementa en 8°.",
       "price": 16.90,
       "category": "keyboard",
       "stock": 20,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "name": "Keychron M1",
-      "description": "El mouse inalámbrico Keychron M1 tiene todas las mejores características en un cuerpo liviano que admite conexión inalámbrica de 2.4 GHz y Bluetooth 5.1. <br/>Es ideal para cualquier escenario, ya sea trabajo, juegos o incluso sobre la marcha. <br/>Le ofrece el mejor rendimiento y maximiza su productividad.<br/>Los botones de avance y retroceso grandes y cómodamente accesibles facilitan el cambio de un documento a otro o de una pestaña de navegador a otra.",
+      "description": "El mouse inalámbrico Keychron M1 tiene todas las mejores características en un cuerpo liviano que admite conexión inalámbrica de 2.4 GHz y Bluetooth 5.1. \nEs ideal para cualquier escenario, ya sea trabajo, juegos o incluso sobre la marcha. \nLe ofrece el mejor rendimiento y maximiza su productividad.\nLos botones de avance y retroceso grandes y cómodamente accesibles facilitan el cambio de un documento a otro o de una pestaña de navegador a otra.",
       "price": 45.00,
       "category": "mouse",
       "stock": 30,
@@ -82,8 +82,8 @@
     },
     {
       "id": 9,
-      "name": " G435 LightSpedd <br/> Auriculares Gaming Inalámbricos Negros",
-      "description": "LIGHTSPEED se puede usar en PC, Mac, PlayStation® 4 y PlayStation 5. Cuando quieras conectar los G435 a otro dispositivo, puedes hacerlo sin dejar de jugar a tu ritmo, con Bluetooth de baja latencia. Y, por supuesto, también puedes escuchar música y charlar con tus amigos.<br/>Tanto para gaming como para escuchar música, puedes disfrutar de una experiencia inalámbrica durante 18 horas con una carga completa.<br/>Con un peso de tan sólo 165 gramos, los G435 son ligeros y cómodos. La espuma viscoelástica absorbe las ondas sonoras para mejorar lo que oyes.",
+      "name": " G435 LightSpedd \n Auriculares Gaming Inalámbricos Negros",
+      "description": "LIGHTSPEED se puede usar en PC, Mac, PlayStation® 4 y PlayStation 5. Cuando quieras conectar los G435 a otro dispositivo, puedes hacerlo sin dejar de jugar a tu ritmo, con Bluetooth de baja latencia. Y, por supuesto, también puedes escuchar música y charlar con tus amigos.\nTanto para gaming como para escuchar música, puedes disfrutar de una experiencia inalámbrica durante 18 horas con una carga completa.\nCon un peso de tan sólo 165 gramos, los G435 son ligeros y cómodos. La espuma viscoelástica absorbe las ondas sonoras para mejorar lo que oyes.",
       "price": 84.99,
       "category": "headphone",
       "stock": 15,

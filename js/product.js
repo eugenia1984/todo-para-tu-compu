@@ -17,7 +17,7 @@
           const productDetail = `
                     <div class="row">
                       <div class="col-12 pb-5">
-                          <h1 class="text-center">${product.name}</h1>
+                          <h1 class="text-center product-name">${product.name}</h1>
                       </div>
                     </div>
                     <div class="row pt-2">
@@ -26,7 +26,7 @@
                       </div>
                       <div class="col-md-5">
                           <p class="fw-bold">Descripción:</p>
-                          <p>${product.description}</p>
+                          <p class="product-description">${product.description}</p>
                           <p class="fw-bold">Precio:</p>
                           <p class="fw-bold fs-4">EUR ${product.price}</p>
                           <p class="fw-bold">Stock: ${product.stock}</p>
