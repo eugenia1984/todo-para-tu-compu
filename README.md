@@ -131,30 +131,31 @@ Se puede ver en: [eugenia1984.github.io/todo-para-tu-compu](eugenia1984.github.i
 
 - Página principal - Modo Desktop:
 
-
-<img src="https://github.com/user-attachments/assets/ea042b9e-8deb-4c5e-b197-03183aa144fc" width="700" alt="pagina de inicio, vista desktop"/>
-
-
-- Página principal - Modo Mobil / Tablet:
-
-<img src="https://github.com/user-attachments/assets/c59a5b4a-92e0-4f1e-97de-4d1f6e96e3a1" width="700" alt="pagina de inicio, vista celuar y tablet"/>
+<img src="https://github.com/user-attachments/assets/1b644728-2b3d-4f34-87c4-73a702a6a2fc" width="700" alt="pagina de inicio, vista desktop"/>
 
 
-En la parte de **productos destacados** el botnón de **Más info** lleva a al página de detalle del producto.
+- Página principal - Modo Mobil / Tablet con tema oscuro:
+
+<img src="https://github.com/user-attachments/assets/591bae39-391e-464c-9c86-4aa0c5b8f8db" width="700" alt="pagina de inicio, vista celuar y tablet"/>
+
+En la parte de **productos destacados** el botón de **Más info** lleva a al página de detalle del producto.
 
 - Página de productos:
 
-<img src="https://github.com/user-attachments/assets/7e9e65ca-5ba1-4742-993e-9a3430cb4b9c" width="700" alt="pagina de productos"/>
+<img src="https://github.com/user-attachments/assets/90ff661b-10a6-4372-bf48-b053daf426f4" width="700" alt="pagina de productos"/>
 
 Haciendo click en el boton de **Más info** se va a la página del detalle del producto.
 
 - Página de detalle del producto:
 
-<img src="https://github.com/user-attachments/assets/01623f42-6dff-4800-adec-23f35ab63c62" width="700" alt="pagina de producto"/>
+<img src="https://github.com/user-attachments/assets/2b86cfbc-26ec-4178-a2e4-6faf9daea1ca" width="700" alt="pagina de producto"/>
 
--> Siempre manteniendo el diseño responsive, vista de ejemplo en celular:
 
-<img src="https://github.com/user-attachments/assets/f5d9194e-9960-46e7-9cca-d7842c48ce86" width="400" alt="pagina de producto, en celular"/>
+- Página de contacto:
+
+Con las validaciones necesarias
+
+<img src="https://github.com/user-attachments/assets/8a43b9e5-2f63-43d8-991b-1333f2fbf36e" width="700" alt="pagina de contacto" />
 
 
 ---
