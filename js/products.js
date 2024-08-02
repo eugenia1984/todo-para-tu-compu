@@ -16,12 +16,12 @@
       categoryProducts.forEach((product) => {
         const productCard = `
                 <div class="col-md-6 col-lg-4">
-                    <div class="card mb-3 px-1 pt-2">
-                        <img src="${product.image}" class="card-img-top product-card" alt="${product.name}">
-                        <div class="card-body">
+                    <div class="card px-0 pt-2 pb-0 shadow bg-body rounded mb-4">
+                        <img src="${product.image}" class="card-img-top product-card py-2" alt="${product.name}">
+                        <div class="card-body bg-dark" style="--bs-bg-opacity: 0.2">
                             <h3 class="card-title fs-5 product-title">${product.name}</h3>
                             <p class="card-text">EUR ${product.price}</p>
-                            <a href="product.html?id=${product.id}" class="btn btn-dark" alt="botón para ir al detalle del producto">Más info</a>
+                            <a href="product.html?id=${product.id}" class="btn btn-dark text-uppercase" alt="botón para ir al detalle del producto">Más info</a>
                         </div>
                     </div>
                 </div>
