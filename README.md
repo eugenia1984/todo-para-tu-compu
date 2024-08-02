@@ -51,9 +51,9 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 ---
 
-## ¿ CÓMO NOS ORGANIZAMOS ?
+## ¿ CÓMO ME ORGANICÉ ?
 
-- Creea **issues** para cada tarea.
+- Cree **issues** para cada tarea.
 
 ![image](https://github.com/user-attachments/assets/6f5fb3ac-1c8a-46e6-b333-bac313bd587e)
 
@@ -62,6 +62,10 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 ![image](https://github.com/user-attachments/assets/d291bbe3-f444-4d29-afb0-8548e3ed7490)
 
 - Una vez que se completa una de las tareas se crea el **pull request** para poder hacer el merge con la branch **main**.
+
+Al tener que realizar sola el trabajo, no tuve tanto tiempo, entonces en vez de crear un trello, utilice los mismos issue y en ellos hice una mini histori ode usuario con los criterios de aceptación, como se ve en el siguiente ejemplo:
+
+![image](https://github.com/user-attachments/assets/a95dd8c4-062c-4de9-87af-0ce8e956c4fb)
 
 --- 
 
