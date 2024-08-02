@@ -56,7 +56,7 @@
         data-bs-theme="dark"
       >
         <div class="container">
-          <a class="navbar-brand" href="index.html"
+          <a class="navbar-brand px-2" href="index.html"
             ><span class="fs-3 fw-bold">TPTC</span
             ><span id="logo-name">Todo para tu compu</span></a
           >
@@ -71,6 +71,20 @@
           >
             <span class="navbar-toggler-icon"></span>
           </button>
+          <div>
+            <button
+              type="button"
+              id="theme"
+              class="btn btn-outline-dark text-white"
+            >
+              <img
+                src="./assets/svg/luna.svg"
+                width="30"
+                height="30"
+                id="light-dark-theme-button"
+              />
+            </button>
+          </div>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
@@ -91,7 +105,7 @@
     </header>
     <main class="container">
       <section id="about-us" class="my-5">
-        <h2 class="fs-2 fw-bold pb-3">Sobre nosotros</h2>
+        <h2 class="fs-1 fw-bold pb-3">Sobre nosotros</h2>
         <p class="fs-5">
           Somos <strong>TPTC (Todo para tu compu)</strong>, una empresa
           familiar, donde encontrarás todo lo necesario en suplementos para tu
@@ -104,8 +118,8 @@
         </p>
       </section>
       <section id="outstanding-products" class="my-5">
-        <h2 class="fs-2 fw-bold pb-3">Productos destacados</h2>
-        <section id="products-carousel" data-bs-theme="dark">
+        <h2 class="fs-1 fw-bold pb-3">Productos destacados</h2>
+        <section id="products-carousel" data-bs-theme="dark" class="mb-5">
           <div id="carouselExampleCaptions" class="carousel slide">
             <div class="carousel-indicators">
               <!-- Se agregan los botones que indican el slider dinamicamente-->
@@ -140,9 +154,8 @@
           </div>
         </section>
       </section>
-      <hr />
-      <section id="promo" class="my-5 pb-3">
-        <h2 class="fs-2 fw-bold pb-3 pt-5">Estas son nuestras promociones</h2>
+      <section id="promo" class="container mt-5 p-5 bg-dark rounded-3 shadow-lg p-3 bg-body rounded" style="--bs-bg-opacity: 0.2">
+        <h2 class="fs-1 fw-bold pb-3 pt-4">Estas son nuestras promociones</h2>
         <ul class="pb-5">
           <li class="pb-2 fs-4">10% de descuento por pago en efectivo.</li>
           <li class="pb-2 fs-4">
@@ -188,6 +201,7 @@
       crossorigin="anonymous"
     ></script>
     <!-- Custom JS -->
+    <script src="./js/theme.js" defer></script>
     <script src="./js/main.js" defer></script>
   </body>
 </html>

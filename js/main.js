@@ -21,7 +21,6 @@
     const carouselInner = document.querySelector(".carousel-inner");
     const carouselIndicators = document.querySelector(".carousel-indicators");
 
-
     // Filtrar los productos destacados (isOutstanding: true)
     const featuredProducts = productsArray.filter(
       (product) => product.isOutstanding
@@ -39,9 +38,17 @@
         product.name
       }">
                   <div class="carousel-caption d-none d-md-block">
-                      <h3 class="fs-5 w-bold text-uppercase product-name">${product.name}</h3>
-                      <p class="fs-4 w-bold">EUR ${product.price.toFixed(2)}</p>
-                      <a href="product.html?id=${product.id}" class="btn btn-dark mb-2" alt="botón para ir al detalle del producto">Más info</a>
+                      <div>
+                        <h3 class="fs-5 w-bold text-uppercase product-name bg-white mb-0 rounded-top">${
+                          product.name
+                        }</h3>
+                        <p class="fs-4 w-bold bg-white rounded-bottom">EUR ${product.price.toFixed(
+                          2
+                        )}</p>
+                      </div>
+                      <a href="product.html?id=${
+                        product.id
+                      }" class="btn btn-dark mb-2 bg-white text-black" alt="botón para ir al detalle del producto">Más info</a>
                   </div>
               </div>
           `;
