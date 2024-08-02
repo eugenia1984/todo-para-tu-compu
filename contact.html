@@ -13,7 +13,6 @@
     />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./css/styles.css" />
-    <link rel="stylesheet" href="./css/contact.css" />
     <link
       rel="shortcut icon"
       href="https://img.icons8.com/stickers/32/my-computer.png"
@@ -202,8 +201,79 @@
                   Ingresa un correo válido, que tenga "@".
                 </div>
               </div>
+              <div class="mb-4">
+                <label for="inputEmail" class="form-label"
+                  >Indicanos si quieres ser contactado por Whatsapp:</label
+                >
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="contactByWhatsapp"
+                    id="contactByWhatsapp1"
+                    value="si"
+                  />
+                  <label class="form-check-label" for="contactByWhatsapp1">
+                    Si
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="contactByWhatsapp"
+                    id="contactByWhatsapp2"
+                    value="no"
+                    checked
+                  />
+                  <label class="form-check-label" for="contactByWhatsapp2">
+                    No
+                  </label>
+                </div>
+                <div id="contactHelp" class="form-text">
+                  Debes seleccionar una de las opciones.
+                </div>
+                <div class="invalid-feedback">
+                  <img
+                    width="18"
+                    height="18"
+                    src="https://img.icons8.com/color/18/error--v1.png"
+                    alt="error icon"
+                  />
+                  Debes seleccionar una de las opciones.
+                </div>
+              </div>
+              <div
+                class="col-12 mb-4"
+                id="mobileNumberContainer"
+                style="display: none"
+              >
+                <label for="inputMobileNumber" class="form-label"
+                  >Número de celular:</label
+                >
+                <input
+                  type="tel"
+                  class="form-control form-control-lg"
+                  id="inputMobileNumber"
+                  aria-describedby="mobileNumberHelp"
+                  pattern="[0-9]{8,11}"
+                  title="Debe contener entre 8 a 11 números"
+                />
+                <div id="mobileNumberHelp" class="form-text">
+                  Ingresa tu número de celular en la casilla de arriba (entre 8 a 11 números).
+                </div>
+                <div class="invalid-feedback">
+                  <img
+                    width="18"
+                    height="18"
+                    src="https://img.icons8.com/color/18/error--v1.png"
+                    alt="error icon"
+                  />
+                  Entre 8 a 11 números.
+                </div>
+              </div>
               <div class="col-12 mb-4">
-                <label for="inputBirthDate" class="form-label"
+                <label for="textareaContact" class="form-label"
                   >Dejanos tu consulta:</label
                 >
                 <textarea
