@@ -11,6 +11,12 @@ html, *::before, *::after {
   justify-content: flex-end;
 }
 
+@media screen and (min-width: 992px) {
+  #navbarNav {
+    max-width: 240px;
+  }
+}
+
 #logo-name {
   display: none;
 }
