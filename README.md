@@ -53,7 +53,7 @@ Implementación de Git para el control de versiones del código y la colaboraci�
 
 ## ¿ CÓMO NOS ORGANIZAMOS ?
 
-- Creamos **issues** para repartirnos las tareas.
+- Creea **issues** para cada tarea.
 
 ![image](https://github.com/user-attachments/assets/6f5fb3ac-1c8a-46e6-b333-bac313bd587e)
 
@@ -81,6 +81,7 @@ Pra hacer el proyecto escalable, se creo un archivo de `.css` para cada una de l
 │   └── img // Todas las imagenes del proyecto
 │
 ├── /css  // CSS personalizado
+│   └── contact.css
 │   └── home.css
 │   └── product.css
 │   └── products.css
@@ -90,30 +91,32 @@ Pra hacer el proyecto escalable, se creo un archivo de `.css` para cada una de l
 │   └── products.json
 │
 ├── /js
+│   └── contact.js // Archivo JavaScript personalizado para la página de contact
 │   └── main.js // Archivo JavaScript personalizado para la home page
 │   └── product.js // Archivo JavaScript personalizado para la página del detalle del producto
 │   └── products.js // Archivo JavaScript personalizado para la página de productos
 │
 │
-├── index.html        // Página principal
-├── products.html     // Página de productos
-├── product.html      // Página de detalles de producto
-└── README.md         // Documentación del proyecto
+├── contact.html       // Página de contacto
+├── index.html         // Página principal
+├── products.html      // Página de productos
+├── product.html       // Página de detalles de producto
+└── README.md          // Documentación del proyecto
 ```
 
 ---
 
-## INTEGRANTES DLE PROYECTO:
+## INTEGRANTE DEL PROYECTO:
 
-- María Eugenia Costa
+- [María Eugenia Costa](https://www.linkedin.com/in/maria-eugenia-costa/)
   
 ---
 
 ## <img width="48" height="48" src="https://img.icons8.com/cotton/48/paint-bucket.png" alt="paint-bucket"/> DISEÑO
 
-En cuanto al diseño nos insporamos en las páginas de Nike, ADidas o Apple, donde utilizan principalmente los colores Blancos y Negros, y a veces destacan algún título con color.
+En cuanto al diseño me inspirés en las páginas de Nike, Adidas o Apple, donde utilizan principalmente los colores Blancos y Negros, y a veces destacan algún título con color.
 
-Queríamso que sea una página sencilla, para que el usuario no se pierda entre tantas cosas e intuitivamente la pueda utilizar facilmente.
+Quería que sea una página sencilla, para que el usuario no se pierda entre tantas cosas e intuitivamente la pueda utilizar facilmente.
 
 ---
 
